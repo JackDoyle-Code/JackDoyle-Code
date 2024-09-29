@@ -8,8 +8,6 @@ I have developed expertise in Python, R, and SQL, with hands-on experience in to
 
 In my free time, I enjoy exploring new technologies and working on personal projects that merge data science with biology. Whether working independently or as part of a team, I thrive on solving complex problems and discovering new patterns in data.
 
-[My CV in PDF]
-
 ---
 
 ## Table of Contents
@@ -21,6 +19,7 @@ In my free time, I enjoy exploring new technologies and working on personal proj
         - [Machine Learning and Supervised Learning]
         - [SQL Data Exploration]
         - [Neural Network and CNN Projects]
+        - [Biological Projects in R]
     - **UCC Master Thesis**
         - [Microbiome Machine Learning Pipeline]
         - [Scientific Paper]
@@ -45,14 +44,14 @@ This repository contains various Python, SQL, and R scripts developed during my 
     - File 8: Caesar and Vigenère Cipher Deciphering.
     - File 9: Demonstrates the usage of NumPy, Matplotlib, and class creation.
     
-2. **Machine Learning Projects**
+2. **Machine Learning and Supervised Learning**
     - Titanic classification without using ML libraries (e.g. scikit-learn).
     - Classification of the Boolean Satisfiability problem using machine learning.
 
-3. **SQL Projects**
+3. **SQL Data Exploration**
     - Solutions to various SQL queries and data exploration problems.
 
-4. **Deep Learning**
+4. **Neural Network and CNN Projects**
     - File 1: Basic neural network classification of MNIST and newswire data.
     - File 2: Image classification using Convolutional Neural Networks (CNNs).
 
@@ -64,6 +63,7 @@ This repository contains various Python, SQL, and R scripts developed during my 
 **Skills**: SQL, Data cleaning, Data querying, Database management, Data analysis, Visualisation, Statistical modeling, Deep learning, Neural networks, Image classification.
 
 **Technology**: Python, Keras, TensorFlow, Scikit-learn, Pandas, Matplotlib, SQL Server, R, Bioconductor, Tidyverse, ggplot2.
+
 ---
 
 ### UCC Master Thesis: Microbiome Machine Learning Pipeline
