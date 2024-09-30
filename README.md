@@ -2,11 +2,13 @@
 
 ## About
 
-Hi, I'm Jack! I have a strong foundation in biological sciences and I am currently completing my Master of Science in Bioinformatics and Computational Biology at University College Cork. I am passionate about leveraging data analysis and machine learning to uncover meaningful insights in biological systems. My technical background spans across bioinformatics, computational biology, and environmental data analysis, and I am excited to apply these skills to complex, real-world challenges.
+Hi, I'm Jack! I've completed a Masters of Science in Bioinformatics and Computational Biology at University College Cork (UCC). I am passionate about performing data analysis and machine learning to discover meaningful insights in biological systems. My technical background spans across bioinformatics, computational biology, and environmental data analysis, and I am excited to apply these skills to complex, real-world challenges.
 
-I have developed expertise in Python, R, and SQL, with hands-on experience in tools like BLAST, Bioconductor, and genomic databases. My recent work involves developing a machine learning framework tailored to microbiome research, which allows for robust and accurate analysis of biological datasets.
+During my masters studies, I developed expertise in Python, R, and SQL, with hands-on experience in tools like BLAST, Bioconductor, and genomic databases. My thesis project focused on developing a machine learning framework tailored to microbiome research, which allows for robust and accurate analysis of biological datasets.
 
-In my free time, I enjoy exploring new technologies and working on personal projects that merge data science with biology. Whether working independently or as part of a team, I thrive on solving complex problems and discovering new patterns in data.
+Before UCC, I earned a First Class Honours degree in Biological and Biomedical Sciences from Trinity College Dublin, where I developed a detailed understanding of molecular biology, ecosystems and their complex interactions. Additionally, I developed a basic understanding of data analysis and statistical computation. These skills came together in my thesis, where I conducted a systematic review on legume intercropping trends for sustainable agriculture.
+
+Outside of my studies, I enjoy exploring new technologies and working on personal projects that merge data science with biology. Whether working independently or as part of a team, I thrive on solving complex problems and discovering new patterns in data.
 
 ---
 
