@@ -22,7 +22,7 @@ Outside of my studies, I enjoy exploring new technologies and working on persona
         - [SQL Data Exploration]
         - [Neural Network and CNN Projects]
         - [Biological Projects in R]
-    - **UCC Master Thesis**
+    - **UCC Master Thesis (Can be viewed upon request)**
         - [Microbiome Machine Learning Pipeline]
         - [Scientific Paper]
     - **Side Projects**
@@ -69,7 +69,7 @@ This repository contains various Python, SQL, and R scripts developed during my 
 
 ---
 
-### UCC Master Thesis: Microbiome Machine Learning Pipeline
+### UCC Master Thesis: Microbiome Machine Learning Pipeline (Can be viewed upon request)
 This project outlines the development of a machine learning pipeline for classification, multiclassification, and regression of microbiome data. Key functions include:
 
 - `run_ml_cv`: Cross-validation pipeline that handles data preprocessing, feature selection, model training, and performance evaluation.
