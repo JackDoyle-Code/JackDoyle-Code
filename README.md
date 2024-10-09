@@ -25,8 +25,9 @@ Outside of my studies, I enjoy exploring new technologies and working on persona
     - **UCC Master Thesis**
         - [Microbiome Machine Learning Pipeline]
         - [Scientific Paper]
+    - **Side Projects**
+        - [Employment Scheduling Program]
 - **Education**
-- **Certificates**
 - **Contact**
 
 ---
@@ -81,6 +82,16 @@ The pipeline is designed to work with datasets such as OTU tables from next-gene
 **Technology**: R, caret, dplyr, and ggplot2.
 
 For more details on how these functions were implemented and the rationale behind the feature selection methods, check the code and accompanying thesis document in the repository.
+
+---
+
+### Side Projects
+
+This repository contains a series of additional projects that I have worked on outside of college and work
+
+1. **Employment Scheduling Program**
+   - This project is a custom implementation of an employee scheduling solution, inspired by Google's OR-Tools library for combinatorial optimisation. The program is designed to efficiently assign shifts to employees while satisfying various constraints
+   - It contains three files, an ipynb file (demostrating the code of the program), a word document (details the tasks carried out), and a csv file (containing relevant data).
 
 ---
 
